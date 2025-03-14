@@ -17,25 +17,25 @@ The Employee Management System is a web application built using Angular and JSON
 - Data Handling: HttpClientModule
 
 ## Project Structure
-    Employee-Management-System/
-    │-- src/
-    │   ├── app/
-    │   │   ├── add-user/
-    │   │   ├── edit-user/
-    │   │   ├── list-user/
-    │   │   ├── notfound/
-    │   │   ├── services/crud.service.ts
-    │   │   ├── app-routing.module.ts
-    │   │   ├── app.module.ts
-    │   │   ├── app.component.html
-    │   ├── assets/
-    │-- backend/
-    │   ├── database.json
-    │-- package.json
-    │-- angular.json
-    │-- README.md
+        Employee-Management-System/
+        │-- src/
+        │   ├── app/
+        │   │   ├── add-user/
+        │   │   ├── edit-user/
+        │   │   ├── list-user/
+        │   │   ├── notfound/
+        │   │   ├── services/crud.service.ts
+        │   │   ├── app-routing.module.ts
+        │   │   ├── app.module.ts
+        │   │   ├── app.component.html
+        │   ├── assets/
+        │-- backend/
+        │   ├── database.json
+        │-- package.json
+        │-- angular.json
+        │-- README.md
 
-# 🚀 Installation and Setup
+# Installation and Setup
 ## Prerequisites
 - Install Node.js and npm
 - Install Angular CLI
@@ -68,5 +68,8 @@ The Employee Management System is a web application built using Angular and JSON
 - Click Delete on a user row.
 - Confirm deletion to remove the user.
 
-## Author
+# Contributing
+If you find any issues or have suggestions for improvement, feel free to fork the repository and submit a pull request.
+
+# Author
 SAMSUDEEN MOHAMMED RIYAZ S
